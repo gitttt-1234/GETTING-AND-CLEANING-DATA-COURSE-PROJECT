@@ -1,8 +1,8 @@
 # GETTING-AND-CLEANING-DATA-COURSE-PROJECT
-##Tidy data assignment
+## Tidy data assignment
 
 
-###Human Activity Recognition Using Smartphones Dataset
+### Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 
 
